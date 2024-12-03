@@ -1,0 +1,7 @@
+C:\Users\root\Desktop\Github\VLAN Segregation Testing Tool\VLAN Segregation Testing Tool\bin\Release\VLAN Segregation Testing Tool.exe.config
+C:\Users\root\Desktop\Github\VLAN Segregation Testing Tool\VLAN Segregation Testing Tool\bin\Release\VLAN Segregation Testing Tool.exe
+C:\Users\root\Desktop\Github\VLAN Segregation Testing Tool\VLAN Segregation Testing Tool\bin\Release\VLAN Segregation Testing Tool.pdb
+C:\Users\root\Desktop\Github\VLAN Segregation Testing Tool\VLAN Segregation Testing Tool\obj\Release\VLAN Segregation Testing Tool.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Github\VLAN Segregation Testing Tool\VLAN Segregation Testing Tool\obj\Release\VLAN Segregation Testing Tool.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Github\VLAN Segregation Testing Tool\VLAN Segregation Testing Tool\obj\Release\VLAN Segregation Testing Tool.exe
+C:\Users\root\Desktop\Github\VLAN Segregation Testing Tool\VLAN Segregation Testing Tool\obj\Release\VLAN Segregation Testing Tool.pdb
