@@ -11,10 +11,3 @@ This tool is designed to test VLAN segregation by attempting to ping the gateway
 ## Requirements
 
 - .NET Core SDK
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/vlan-segregation-tool.git
-   cd vlan-segregation-tool
