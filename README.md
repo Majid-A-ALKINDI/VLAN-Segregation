@@ -4,8 +4,8 @@ This tool is designed to test VLAN segregation by attempting to ping the gateway
 
 ## Features
 
-- Ping gateway IP addresses to test for VLAN segregation.
-- Outputs results in a clear tabular format, showing successful pings.
+- Ping gateway IP addresses to test the VLAN segregation.
+- Outputs results in a clear table format, showing successful ping.
 - Provides verbose output during the ping process for real-time feedback.
 
 ## Requirements
